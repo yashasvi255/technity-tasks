@@ -4,7 +4,7 @@ technity tasks for tech club
 This needs to be updated as we go...
 
 <table border="1">
-<tr>
+<tr style="back-ground:light-blue;">
   <td>Wings</td>
   <td>Status</td>
 </tr>
