@@ -1,6 +1,6 @@
-1.   True and False, using capital T and F, with the rest of the word in lowercase
+1.   two types of boolean data types are true and false
 
-2    and, or, and not
+2    and or not 
 
 3    True and True is True.
 
@@ -39,32 +39,25 @@
 
 
 9    print('eggs')
-      if spam > 5:
+     if spam > 5:
      print('bacon')
-       else:
+     else:
      print('ham')
      print('spam')
 
 
-10      if spam == 1:
+10   if spam == 1:
     print('Hello')
     elif spam == 2:
     print('Howdy')
     else:
     print('Greetings!')
-    Press CTRL-C to stop a program stuck in an infinite loop.
+ 
 
-11  The break statement will move the execution outside and just after a loop. The continue statement will move the execution to the start of the loop.
+11  break statement  executes outside  after loop  continue statement executes in the start 
 
-12   They all do the same thing. 
+12  they all have the same function to do 
 
+13 
 
-
-13 for i in range(1, 11):
-    print(i)
-i = 1
-while i <= 10:
-    print(i)
-    i = i + 1
-
-14 This function can be called with spam.bacon().
+14 spam.bacon() by using this we can call the function.
